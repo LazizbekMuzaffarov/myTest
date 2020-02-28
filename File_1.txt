@@ -1,2 +1,3 @@
 Birinchi file
-git pull buyrugi uchun maxsus
+git pull buyrug'i uchun maxsus
+git fetch buyrug'i uchun 
