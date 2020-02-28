@@ -1,1 +1,3 @@
-Ikkinchi file yaratildi
+Ikkinchi file yaratildi.
+git clone ishlari va git push buyruqlari uchun yaratidi.
+Assalomu alaykum!
